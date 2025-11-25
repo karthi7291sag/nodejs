@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="supertest-node" tests="1">
+  <testcase name="Node JS App Test">
+    <system-out>passed</system-out>
+  </testcase>
+</testsuite>

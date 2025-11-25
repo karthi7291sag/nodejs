@@ -4,11 +4,8 @@ const server = require("./index");
 const fs = require("fs");
 const request = require("supertest");
 let results = [];
-<<<<<<< HEAD
 let consoleLogs = [];
 
-=======
->>>>>>> a7ff2f3 (test)
 http.get("http://localhost:8000", (res) => {
   assert.strictEqual(res.statusCode, 200);
   console.log("✔ Test passed");
