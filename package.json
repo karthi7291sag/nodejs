@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/karthikeyan_m11/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/karthikeyan_m11/nodejs/issues"
+  },
+  "homepage": "https://gitlab.com/karthikeyan_m11/nodejs#readme",
+  "dependencies": {
+    "assert": "^2.1.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "supertest": "^7.1.4"
+  }
+}
